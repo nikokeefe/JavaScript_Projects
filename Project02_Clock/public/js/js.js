@@ -11,8 +11,6 @@ const hourHand = document.querySelector('.hour-hand'); // grab our hour-hand
 function setDate() {
 
     const now = new Date();
-    
-    console.log(now);
 
     const seconds = now.getSeconds();
     const secondsDegrees = ((seconds / 60) * 360) + 90; // add 90deg so defaults to up and down
