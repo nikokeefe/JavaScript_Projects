@@ -11,3 +11,6 @@ A series of javascript projects from a course by WesBos
 3. CSS Variables
     <ol>changing css on the fly, in real-time</ol>
     
+4. Array Cardio
+    <ol>Exercises on arrays....filter(), sort(), map(), reduce()</ol>
+    <ol>Working with DOM and split too</ol>
