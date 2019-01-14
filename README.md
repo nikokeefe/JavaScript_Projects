@@ -20,3 +20,6 @@ A series of javascript projects from a course by WesBos
 
 6. Predictive Typing
     <ol>Predicts what you may want to type by running the currently typed characters through an Ajax file and displays and highlights the matching entries</ol>
+
+7. Array Cardio 2
+    <ol>More exercises on arrays...some(), every(), find(), findIndex()</ol>
