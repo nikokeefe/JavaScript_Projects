@@ -23,3 +23,6 @@ A series of javascript projects from a course by WesBos
 
 7. Array Cardio 2
     <ol>More exercises on arrays...some(), every(), find(), findIndex()</ol>
+
+8. HTML5 Canvas
+    <ol>Wite a basic draw/paint app</ol>
