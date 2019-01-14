@@ -19,4 +19,4 @@ A series of javascript projects from a course by WesBos
     <ol>use flex box to expand different panels and transition text when clicked</ol>
 
 6. Predictive Typing
-    <ol>Predicts what you may want to type by running the currently typed characters through an Ajax file and displays the matching entries</ol>
+    <ol>Predicts what you may want to type by running the currently typed characters through an Ajax file and displays and highlights the matching entries</ol>
