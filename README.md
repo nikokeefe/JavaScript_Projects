@@ -14,3 +14,6 @@ A series of javascript projects from a course by WesBos
 4. Array Cardio
     <ol>Exercises on arrays....filter(), sort(), map(), reduce()</ol>
     <ol>Working with DOM and split too</ol>
+
+5. Flex Panels Image Gallery
+    <ol>use flex box to expand different panels and transition text when clicked</ol>
