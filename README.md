@@ -17,3 +17,6 @@ A series of javascript projects from a course by WesBos
 
 5. Flex Panels Image Gallery
     <ol>use flex box to expand different panels and transition text when clicked</ol>
+
+6. Predictive Typing
+    <ol>Predicts what you may want to type by running the currently typed characters through an Ajax file and displays the matching entries</ol>
