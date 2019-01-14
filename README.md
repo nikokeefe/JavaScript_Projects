@@ -16,4 +16,4 @@ A series of javascript projects from a course by WesBos
     <ol>Working with DOM and split too</ol>
 
 5. Flex Panels Image Gallery
-    <ol>
+    <ol>use flex box to expand different panels and transition text when clicked</ol>
