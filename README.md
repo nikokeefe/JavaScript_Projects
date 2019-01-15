@@ -26,3 +26,6 @@ A series of javascript projects from a course by WesBos
 
 8. HTML5 Canvas
     <ol>Wite a basic draw/paint app</ol>
+
+9. 14 Dev Tool Tricks
+    <ol>Console.log tricks of the trade</ol>
