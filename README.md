@@ -29,3 +29,6 @@ A series of javascript projects from a course by WesBos
 
 9. 14 Dev Tool Tricks
     <ol>Console.log tricks of the trade</ol>
+
+10. Use Shift to Check Multiple Checkboxes
+    <ol>Use the shift key to check all checkboxes in a list between the first checkbox you click and the second</ol>
