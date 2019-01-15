@@ -32,3 +32,6 @@ A series of javascript projects from a course by WesBos
 
 10. Use Shift to Check Multiple Checkboxes
     <ol>Use the shift key to check all checkboxes in a list between the first checkbox you click and the second</ol>
+
+11. Custom HTML5 Video Player
+    <ol>Program a custom interface for playing, pausing, volume, speed, scrubbing and full screen</ol>
