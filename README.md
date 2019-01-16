@@ -35,3 +35,10 @@ A series of javascript projects from a course by WesBos
 
 11. Custom HTML5 Video Player
     <ol>Program a custom interface for playing, pausing, volume, speed, scrubbing and full screen</ol>
+
+12. Key Sequence Detection
+    <ol>Detects when you enter a secret code....and you get unicorns!</ol>
+    <ol>Code is currently 'secret'</ol>
+
+13. Slide Image in on Scroll
+    <ol>As you scroll down the page it scrolls the images in from the side</ol>
